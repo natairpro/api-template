@@ -1,0 +1,9 @@
+/Users/cnattress/Projects/InntopiaApi/Domain/bin/Debug/netcoreapp2.0/Domain.deps.json
+/Users/cnattress/Projects/InntopiaApi/Domain/bin/Debug/netcoreapp2.0/Domain.dll
+/Users/cnattress/Projects/InntopiaApi/Domain/bin/Debug/netcoreapp2.0/Domain.pdb
+/Users/cnattress/Projects/InntopiaApi/Domain/obj/Debug/netcoreapp2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/cnattress/Projects/InntopiaApi/Domain/obj/Debug/netcoreapp2.0/Domain.AssemblyInfoInputs.cache
+/Users/cnattress/Projects/InntopiaApi/Domain/obj/Debug/netcoreapp2.0/Domain.AssemblyInfo.cs
+/Users/cnattress/Projects/InntopiaApi/Domain/obj/Debug/netcoreapp2.0/Domain.dll
+/Users/cnattress/Projects/InntopiaApi/Domain/obj/Debug/netcoreapp2.0/Domain.pdb
+/Users/cnattress/Projects/InntopiaApi/Domain/obj/Debug/netcoreapp2.0/Domain.csprojResolveAssemblyReference.cache
